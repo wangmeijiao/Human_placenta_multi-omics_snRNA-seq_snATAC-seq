@@ -6,7 +6,7 @@ Human placenta multi-omics analysis pipelines (snRNA-seq, snATAC-seq)
 #Codes to analysis placenta multiomic data at early/late pregnancy. (Similar steps are omitted in late pregnancy)
 
 03.In_vivo_in_vitro_comparison
-#Codes to comapre in vitro and in vivo STB data.
+#Codes to compare in vitro and in vivo STB data.
 
 
 
