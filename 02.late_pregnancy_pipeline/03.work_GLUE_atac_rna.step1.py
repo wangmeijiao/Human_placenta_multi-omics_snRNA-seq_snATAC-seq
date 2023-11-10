@@ -1,8 +1,8 @@
 
 
-##a quick look for GLUE integration of term RNA and ATAC data (use peak - gene interaction, not gene activity score ?)
+##a quick look for GLUE integration of term RNA and ATAC data (use peak - gene interaction, not gene activity score )
 
-##GLUE is developed for unpaired and paired single-celll multi-omics data?
+##GLUE is developed for unpaired and paired single-celll multi-omics data
 
 import anndata
 import networkx as nx
@@ -38,7 +38,7 @@ anndata==0.8.0, networkx==2.8.4, scanpy==1.8.2, scglue==0.2.3, numpy==1.22.4,lei
 import leidenalg
 leidenalg.version #0.9.1
 
-#Stage 1: Data preprocessing (rna and atac come from one nucleus, mouse)
+#Stage 1: Data preprocessing (rna and atac come from one nucleus or two split nuclei batches)
 
 #Read data
 rna = anndata.read_h5ad("data/rna.h5ad") #23981 × 28686 #9331 x 22331
