@@ -1,6 +1,6 @@
-![Uploading image.png…]()
+<img width="878" alt="image" src="https://github.com/wangmeijiao/Human_placenta_multi-omics_snRNA-seq_snATAC-seq/assets/20920507/94e954f6-9202-46e5-9a5a-c8c666301a1a">
+<img width="893" alt="image" src="https://github.com/wangmeijiao/Human_placenta_multi-omics_snRNA-seq_snATAC-seq/assets/20920507/2bf29d7e-68c9-4044-a6d1-801fa5c44fbd">
 
-![Uploading image.png…]()
 
 Human placenta multi-omics analysis pipelines (snRNA-seq, snATAC-seq)
 
