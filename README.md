@@ -2,7 +2,8 @@
 <img width="893" alt="image" src="https://github.com/wangmeijiao/Human_placenta_multi-omics_snRNA-seq_snATAC-seq/assets/20920507/2bf29d7e-68c9-4044-a6d1-801fa5c44fbd">
 
 
-Human placenta multi-omics analysis pipelines (snRNA-seq, snATAC-seq)
+**Human placenta multi-omics analysis pipelines (snRNA-seq, snATAC-seq)**
+
 
 01.early_pregnancy_pipeline
 02.late_pregnancy_pipeline
