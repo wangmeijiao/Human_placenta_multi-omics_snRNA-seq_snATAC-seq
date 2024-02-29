@@ -15,7 +15,9 @@
 04.ChIP-seq_and_cuttag_pipeline #Codes to analysis ChIP-seq and CUT&TAG datasets
 ```
 
-Platform: CentOS7 Environment 1: Jupyterlab v2.2.9, R v3.6.3, python v3.8.5 Enrironment 2: Jupyterlab v3.4.3, R v4.1.3, python v3.10.5 (GLUE integration, snapATACv2.2.0, pycistarget)
+Platform: 
+   Environment 1: R v3.6.3, python v3.8.5 
+   Enrironment 2: R v4.1.3, python v3.10.5 (for GLUE integration, snapATACv2.2.0, pycistarget etc.)
 
 
 [DOI: 10.5281/zenodo.10212321]
