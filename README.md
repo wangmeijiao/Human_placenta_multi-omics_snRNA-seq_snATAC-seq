@@ -28,8 +28,8 @@ Twitter:
 
 https://twitter.com/mjwang17
 
-Cite:
+Citation:
    
-   Wang, M. et al. Single-nucleus multi-omic profiling of human placental syncytiotrophoblasts identifies cellular trajectories during pregnancy. Nat Genet 56, 294-305 (2024)
+   Wang, M. Liu, Y. et al. Single-nucleus multi-omic profiling of human placental syncytiotrophoblasts identifies cellular trajectories during pregnancy. Nat Genet 56, 294-305 (2024)
 
 
